@@ -1,0 +1,6 @@
+{
+  "name": "BIST Portföy Takip",
+  "description": "Borsa İstanbul hisse senedi portföy takibi, TradingView canlı verileri, Türkiye ekonomi haberleri ve yapay zeka destekli sektör/hisse etki analizleri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
